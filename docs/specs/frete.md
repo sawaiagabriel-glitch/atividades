@@ -13,4 +13,4 @@
 
 *RB-01*: WHILE a região for 'Norte', o limite é R$ 300,00. Demais regiões: R$ 200,00.
 
-*RB-03*: IF valor <= 0, THEN exibir erro 'Valor de carrinho inválido'.
+*RB-02*: IF valor <= 0, THEN exibir erro 'Valor de carrinho inválido'.
